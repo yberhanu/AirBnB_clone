@@ -1,4 +1,4 @@
-# AirBnB Clone [![License: MIT]
+# AirBnB Clone 
 ![HBnB Logo](./image/hbnb_logo.png)
 
 
